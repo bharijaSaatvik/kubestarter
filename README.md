@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="400" alt="Kubernetes Logo"/>
 
 <br/>
 <br/>
